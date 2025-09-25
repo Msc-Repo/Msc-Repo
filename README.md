@@ -2,9 +2,23 @@
   <img src="./readmeProfile.png" alt="Manaw Candappa" width="100%" />
 </p>
 
-<h3 align="center">Aspiring Full-Stack & Mobile Developer | Web, Cross-Platform & Native Apps</h3>
+<h2 align="center">𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 & 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗪𝗲𝗯, 𝗖𝗿𝗼𝘀𝘀-𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 & 𝗡𝗮𝘁𝗶𝘃𝗲 𝗔𝗽𝗽𝘀</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msc-repo&label=Profile%20views&color=0e75b6&style=flat" alt="msc-repo" /> </p>
+
+<!-- Badges Section -->
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=msc-repo&label=Profile%20views&color=0e75b6&style=flat" alt="msc-repo" />
+  
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/Msc-Repo/msc-repo?label=Stars&color=0e75b6&style=flat" alt="msc-repo stars" />
+  
+  <!-- GitHub Forks -->
+  <img src="https://img.shields.io/github/forks/Msc-Repo/msc-repo?label=Forks&color=0e75b6&style=flat" alt="msc-repo forks" />
+</p>
+
+
+
 
 
 <!-- About Me Section -->
