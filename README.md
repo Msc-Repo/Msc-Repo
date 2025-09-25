@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manaw Candappa (Msc-Repo)</h1>
+<p align="center">
+  <img src="./readmeProfile.png" alt="Manaw Candappa" width="100%" />
+</p>
+
 <h3 align="center">Aspiring Full-Stack & Mobile Developer | Web, Cross-Platform & Native Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msc-repo&label=Profile%20views&color=0e75b6&style=flat" alt="msc-repo" /> </p>
