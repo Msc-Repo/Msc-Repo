@@ -2,7 +2,7 @@
   <img src="./readmeProfile.png" alt="Manaw Candappa" width="100%" />
 </p>
 
-<h2 align="center">𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 & 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗪𝗲𝗯, 𝗖𝗿𝗼𝘀𝘀-𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 & 𝗡𝗮𝘁𝗶𝘃𝗲 𝗔𝗽𝗽𝘀</h2>
+<h2 align="center">Aspiring Full-Stack & Mobile Developer | Crafting Web & Cross-Platform Apps</h2>
 
 
 <!-- Badges Section -->
@@ -12,25 +12,38 @@
   
   <!-- GitHub Stars -->
   <img src="https://img.shields.io/github/stars/Msc-Repo/msc-repo?label=Stars&color=0e75b6&style=flat" alt="msc-repo stars" />
-  
-  <!-- GitHub Forks -->
-  <img src="https://img.shields.io/github/forks/Msc-Repo/msc-repo?label=Forks&color=0e75b6&style=flat" alt="msc-repo forks" />
 </p>
-
-
-
 
 
 <!-- About Me Section -->
 <h3 align="left">About Me</h3>
-<p>Hi! 👋 I’m an undergraduate developer passionate about building modern, user-friendly applications. I enjoy transforming ideas into real projects and learning new technologies to stay ahead in the fast-paced world of software development.</p>
+<p>
+  Hi! 👋 I’m an undergraduate developer passionate about 
+  Web Development, mobile apps, and creating modern, user-friendly applications.  
+  I enjoy transforming ideas into real projects and continuously learning new technologies to stay ahead in the fast-paced world of software development.
+</p>
+
 
 <h3 align="left">Why Connect With Me</h3>
 <ul>
-  <li>Completed real-world projects showcasing problem-solving skills</li>
-  <li>Quick learner, ready to contribute to web & mobile applications</li>
-  <li>Seeking opportunities to grow, collaborate, and innovate</li>
+  <li>Worked on practical projects that demonstrate my problem-solving skills</li>
+  <li>Eager to learn quickly and contribute to web and mobile development</li>
+  <li>Looking for opportunities to grow, collaborate, and explore new technologies</li>
 </ul>
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 
 <!-- What I Do Section -->
@@ -38,14 +51,10 @@
 
 <!-- Badges / Highlighted Skills -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&color=0A66C2&labelColor=000000&borderRadius=10"/>
-  <img src="https://img.shields.io/badge/Mobile_Development-25A162?style=for-the-badge&logo=android&logoColor=white&color=25A162&labelColor=000000&borderRadius=10"/> 
-  <img src="https://img.shields.io/badge/Databases-FF6F00?style=for-the-badge&logo=databricks&logoColor=white&color=FF6F00&labelColor=000000&borderRadius=10"/> 
+   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&color=0A66C2&labelColor=000000&borderRadius=10"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Mobile_Development-25A162?style=for-the-badge&logo=android&logoColor=white&color=25A162&labelColor=000000&borderRadius=10"/> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/UI/UX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E&labelColor=000000&borderRadius=10"/> 
 </p>
-
-<!-- Tech Stack & Tools -->
-<h3>Tech Stack & Tools</h3>
 
 <h4>Languages</h4>
 <p align="left">
@@ -202,14 +211,17 @@
 </p>
 
 
+<br>
+<table align="center" bgcolor="#0A66C2" border="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+        <img src="https://github-profile-trophy.vercel.app/?username=msc-repo" alt="msc-repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msc-repo" alt="msc-repo" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msc-repo&show_icons=true&locale=en&layout=compact" alt="msc-repo" /></p>
 
