@@ -32,7 +32,7 @@
 </ul>
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a href="mailto:your-email@example.com" target="_blank">
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a href="mailto:mc.coder00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;
   
